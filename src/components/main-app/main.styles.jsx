@@ -8,7 +8,7 @@ export const MainWrapper = styled.main`
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
-  top: 38%;
+  top: -50%;
   min-width: 340px;
   max-width: 540px;
   width: 340px;
