@@ -42,6 +42,7 @@ const MainComponent = () => {
               </picture>
             </AdviceWrapper>
             <DiceButton
+              aria-label='advice-generator-button'
               onClick={() => {
                 handleSearchAdvice();
               }}>
